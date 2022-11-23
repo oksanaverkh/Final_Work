@@ -7,4 +7,5 @@
 
 
 ![Block diagram](Block_diagram.jpg)
+
 5. Programm and block diagram will be pushed to the GitHub repository.
