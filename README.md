@@ -6,5 +6,5 @@
 4. Block diagram was added to README file (see below).
 
 
-![Block diagram](%D0%91%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0.jpg)
+![Block diagram](Block_diagram.jpg)
 5. Programm and block diagram will be pushed to the GitHub repository.
